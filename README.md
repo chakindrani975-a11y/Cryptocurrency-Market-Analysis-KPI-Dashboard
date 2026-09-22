@@ -136,27 +136,7 @@ On March 17, 346 cryptocurrencies were classified as gainers, while 127 were cla
 
 Note: This analysis represents cryptocurrency market data from March 16–17, 2022 and does not represent current cryptocurrency market conditions.
 
-Project Structure
-Cryptocurrency-Market-Analysis/
-│
-├── raw_data/
-│   ├── coin_gecko_2022-03-16.csv
-│   └── coin_gecko_2022-03-17.csv
-│
-├── processed_data/
-│   ├── combined_coin.csv
-│   ├── crypto_analysis.xlsx
-│   └── crypto_dashboard_data.xlsx
-│
-├── scripts/
-│   └── crypto_analysis.py
-│
-├── dashboard/
-│   └── README.md
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
+
 Skills Demonstrated
 Data Cleaning
 Data Transformation
